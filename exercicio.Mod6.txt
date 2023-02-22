@@ -1,0 +1,23 @@
+programa {
+  funcao inicio() {
+    
+     "HoraDeAcordar"
+
+    se ( 6:00 da manha despertador comeca tocar 
+        abrir os olhos 
+        vire ate o despertador
+        pegar o despertador
+        desligar o despertador
+        colocar o despertador no criado mudo 
+        espreguiçar na cama 
+        sentar-se na cama antes de levantar
+        colocar o chinelo
+        levantar e ir escovar os dentes) {
+       
+
+   }senao {
+         ficar dormindo até que o despertador toque
+    }
+
+  }
+}
